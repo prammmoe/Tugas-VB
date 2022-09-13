@@ -1,0 +1,10 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\bin\Debug\Prak1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\bin\Debug\Prak1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\bin\Debug\Prak1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.Frmlatihan.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\Prak1\obj\Debug\Prak1.pdb
